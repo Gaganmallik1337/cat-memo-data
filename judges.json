@@ -1,110 +1,446 @@
 {
+  "debug_mode": true,
   "last_updated": "2026-03-23",
   "benches": {
     "Principal Bench": [
-      {"name": "Justice Ranjit Vasantrao More", "designation": "Chairman", "type": "JM", "display": "Hon'ble Mr. Justice Ranjit Vasantrao More, Chairman"},
-      {"name": "R.N. Singh", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. R.N. Singh, Member (J)"},
-      {"name": "Harvinder Oberoi", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Ms. Harvinder Oberoi, Member (J)"},
-      {"name": "Manish Garg", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Manish Garg, Member (J)"},
-      {"name": "Chhabilendra Roul", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Dr. Chhabilendra Roul, Member (A)"},
-      {"name": "Anand Singh Khati", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Dr. Anand Singh Khati, Member (A)"},
-      {"name": "Sanjeeva Kumar", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Sanjeeva Kumar, Member (A)"},
-      {"name": "Sumeet Jerath", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Dr. Sumeet Jerath, Member (A)"},
-      {"name": "B. Anand", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. B. Anand, Member (A)"},
-      {"name": "Ajay Pratap Singh", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Ajay Pratap Singh, Member (J)"},
-      {"name": "Rajinder Kumar Kashyap", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Rajinder Kumar Kashyap, Member (A)"},
-      {"name": "Rajveer Singh Verma", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Rajveer Singh Verma, Member (J)"}
+      {
+        "name": "Justice Ranjit Vasantrao More",
+        "designation": "Chairman",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice Ranjit Vasantrao More, Chairman"
+      },
+      {
+        "name": "R.N. Singh",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. R.N. Singh, Member (J)"
+      },
+      {
+        "name": "Harvinder Oberoi",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Ms. Harvinder Oberoi, Member (J)"
+      },
+      {
+        "name": "Manish Garg",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Manish Garg, Member (J)"
+      },
+      {
+        "name": "Chhabilendra Roul",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Dr. Chhabilendra Roul, Member (A)"
+      },
+      {
+        "name": "Anand Singh Khati",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Dr. Anand Singh Khati, Member (A)"
+      },
+      {
+        "name": "Sanjeeva Kumar",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Sanjeeva Kumar, Member (A)"
+      },
+      {
+        "name": "Sumeet Jerath",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Dr. Sumeet Jerath, Member (A)"
+      },
+      {
+        "name": "B. Anand",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. B. Anand, Member (A)"
+      },
+      {
+        "name": "Ajay Pratap Singh",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Ajay Pratap Singh, Member (J)"
+      },
+      {
+        "name": "Rajinder Kumar Kashyap",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Rajinder Kumar Kashyap, Member (A)"
+      },
+      {
+        "name": "Rajveer Singh Verma",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Rajveer Singh Verma, Member (J)"
+      }
     ],
     "Ahmedabad Bench": [
-      {"name": "Jayesh V. Bhairavia", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Jayesh V. Bhairavia, Member (J)"},
-      {"name": "Hukum Singh Meena", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Hukum Singh Meena, Member (A)"}
+      {
+        "name": "Jayesh V. Bhairavia",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Jayesh V. Bhairavia, Member (J)"
+      },
+      {
+        "name": "Hukum Singh Meena",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Hukum Singh Meena, Member (A)"
+      }
     ],
     "Allahabad Bench": [
-      {"name": "Justice Om Prakash VII", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice Om Prakash VII, Member (J)"},
-      {"name": "Justice Rajiv Joshi", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice Rajiv Joshi, Member (J)"},
-      {"name": "Mohan Pyare", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Mohan Pyare, Member (A)"},
-      {"name": "Rajnish Kumar Rai", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Rajnish Kumar Rai, Member (J)"},
-      {"name": "Anjani Nandan Sharan", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Anjani Nandan Sharan, Member (A)"},
-      {"name": "Manju Pandey", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Ms. Manju Pandey, Member (A)"}
+      {
+        "name": "Justice Om Prakash VII",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice Om Prakash VII, Member (J)"
+      },
+      {
+        "name": "Justice Rajiv Joshi",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice Rajiv Joshi, Member (J)"
+      },
+      {
+        "name": "Mohan Pyare",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Mohan Pyare, Member (A)"
+      },
+      {
+        "name": "Rajnish Kumar Rai",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Rajnish Kumar Rai, Member (J)"
+      },
+      {
+        "name": "Anjani Nandan Sharan",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Anjani Nandan Sharan, Member (A)"
+      },
+      {
+        "name": "Manju Pandey",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Ms. Manju Pandey, Member (A)"
+      }
     ],
     "Bengaluru Bench": [
-      {"name": "Justice S. Sujatha", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mrs. Justice S. Sujatha, Member (J)"},
-      {"name": "Justice B.K. Shrivastava", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice B.K. Shrivastava, Member (J)"},
-      {"name": "Sanjiv Kumar", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Dr. Sanjiv Kumar, Member (A)"},
-      {"name": "Santosh Mehra", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Santosh Mehra, Member (A)"}
+      {
+        "name": "Justice S. Sujatha",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mrs. Justice S. Sujatha, Member (J)"
+      },
+      {
+        "name": "Justice B.K. Shrivastava",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice B.K. Shrivastava, Member (J)"
+      },
+      {
+        "name": "Sanjiv Kumar",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Dr. Sanjiv Kumar, Member (A)"
+      },
+      {
+        "name": "Santosh Mehra",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Santosh Mehra, Member (A)"
+      }
     ],
     "Chandigarh Bench": [
-      {"name": "Ramesh Singh Thakur", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Ramesh Singh Thakur, Member (J)"},
-      {"name": "Suresh Kumar Batra", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Suresh Kumar Batra, Member (J)"},
-      {"name": "Rashmi Saxena Sahni", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Smt. Rashmi Saxena Sahni, Member (A)"},
-      {"name": "Anjali Bhawra", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Ms. Anjali Bhawra, Member (A)"}
+      {
+        "name": "Ramesh Singh Thakur",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Ramesh Singh Thakur, Member (J)"
+      },
+      {
+        "name": "Suresh Kumar Batra",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Suresh Kumar Batra, Member (J)"
+      },
+      {
+        "name": "Rashmi Saxena Sahni",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Smt. Rashmi Saxena Sahni, Member (A)"
+      },
+      {
+        "name": "Anjali Bhawra",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Ms. Anjali Bhawra, Member (A)"
+      }
     ],
     "Chennai Bench": [
-      {"name": "M. Swaminathan", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. M. Swaminathan, Member (J)"},
-      {"name": "Veena Kothavale", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Ms. Veena Kothavale, Member (J)"},
-      {"name": "Sisir Kumar Ratho", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Sisir Kumar Ratho, Member (A)"},
-      {"name": "M.L. Srivastava", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. M.L. Srivastava, Member (A)"}
+      {
+        "name": "M. Swaminathan",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. M. Swaminathan, Member (J)"
+      },
+      {
+        "name": "Veena Kothavale",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Ms. Veena Kothavale, Member (J)"
+      },
+      {
+        "name": "Sisir Kumar Ratho",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Sisir Kumar Ratho, Member (A)"
+      },
+      {
+        "name": "M.L. Srivastava",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. M.L. Srivastava, Member (A)"
+      }
     ],
     "Cuttack Bench": [
-      {"name": "Sudhi Ranjan Mishra", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Sudhi Ranjan Mishra, Member (J)"},
-      {"name": "Pramod Kumar Das", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Pramod Kumar Das, Member (A)"}
+      {
+        "name": "Sudhi Ranjan Mishra",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Sudhi Ranjan Mishra, Member (J)"
+      },
+      {
+        "name": "Pramod Kumar Das",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Pramod Kumar Das, Member (A)"
+      }
     ],
     "Ernakulam Bench": [
-      {"name": "Justice Sunil Thomas", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice Sunil Thomas, Member (J)"},
-      {"name": "Justice K. Haripal", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice K. Haripal, Member (J)"},
-      {"name": "V. Rama Mathew", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Ms. V. Rama Mathew, Member (A)"},
-      {"name": "Braj Mohan Agrawal", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Braj Mohan Agrawal, Member (A)"}
+      {
+        "name": "Justice Sunil Thomas",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice Sunil Thomas, Member (J)"
+      },
+      {
+        "name": "Justice K. Haripal",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice K. Haripal, Member (J)"
+      },
+      {
+        "name": "V. Rama Mathew",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Ms. V. Rama Mathew, Member (A)"
+      },
+      {
+        "name": "Braj Mohan Agrawal",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Braj Mohan Agrawal, Member (A)"
+      }
     ],
     "Guwahati Bench": [
-      {"name": "Rajinder Singh Dogra", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Rajinder Singh Dogra, Member (J)"},
-      {"name": "Sanjiv Kumar", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Sanjiv Kumar, Member (A)"}
+      {
+        "name": "Rajinder Singh Dogra",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Rajinder Singh Dogra, Member (J)"
+      },
+      {
+        "name": "Sanjiv Kumar",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Sanjiv Kumar, Member (A)"
+      }
     ],
     "Hyderabad Bench": [
-      {"name": "Lata Baswaraj Patne", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Ms. Lata Baswaraj Patne, Member (J)"},
-      {"name": "Varun Sindhu Kul Kaumudi", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Varun Sindhu Kul Kaumudi, Member (A)"},
-      {"name": "Shalini Misra", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Ms. Shalini Misra, Member (A)"}
+      {
+        "name": "Lata Baswaraj Patne",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Ms. Lata Baswaraj Patne, Member (J)"
+      },
+      {
+        "name": "Varun Sindhu Kul Kaumudi",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Varun Sindhu Kul Kaumudi, Member (A)"
+      },
+      {
+        "name": "Shalini Misra",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Ms. Shalini Misra, Member (A)"
+      }
     ],
     "Jabalpur Bench": [
-      {"name": "Justice Akhil Kumar Srivastava", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice Akhil Kumar Srivastava, Member (J)"},
-      {"name": "Mallika Arya", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Ms. Mallika Arya, Member (A)"}
+      {
+        "name": "Justice Akhil Kumar Srivastava",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice Akhil Kumar Srivastava, Member (J)"
+      },
+      {
+        "name": "Mallika Arya",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Ms. Mallika Arya, Member (A)"
+      }
     ],
     "Jaipur Bench": [
-      {"name": "Ranjana Shahi", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Ms. Ranjana Shahi, Member (J)"},
-      {"name": "Lok Ranjan", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Lok Ranjan, Member (A)"}
+      {
+        "name": "Ranjana Shahi",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Ms. Ranjana Shahi, Member (J)"
+      },
+      {
+        "name": "Lok Ranjan",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Lok Ranjan, Member (A)"
+      }
     ],
     "Jammu Bench": [
-      {"name": "Sanjeev Gupta", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Sanjeev Gupta, Member (J)"},
-      {"name": "Pragya Sahay Saksena", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Ms. Pragya Sahay Saksena, Member (A)"},
-      {"name": "Ram Mohan Johri", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Ram Mohan Johri, Member (A)"}
+      {
+        "name": "Sanjeev Gupta",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Sanjeev Gupta, Member (J)"
+      },
+      {
+        "name": "Pragya Sahay Saksena",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Ms. Pragya Sahay Saksena, Member (A)"
+      },
+      {
+        "name": "Ram Mohan Johri",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Ram Mohan Johri, Member (A)"
+      }
     ],
     "Jodhpur Bench": [
-      {"name": "Justice Rameshwar Vyas", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice Rameshwar Vyas, Member (J)"},
-      {"name": "Amit Sahai", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Amit Sahai, Member (A)"}
+      {
+        "name": "Justice Rameshwar Vyas",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice Rameshwar Vyas, Member (J)"
+      },
+      {
+        "name": "Amit Sahai",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Amit Sahai, Member (A)"
+      }
     ],
     "Kolkata Bench": [
-      {"name": "Urmita Datta (Sen)", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Smt. Urmita Datta (Sen), Member (J)"},
-      {"name": "Suchitto Kumar Das", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Suchitto Kumar Das, Member (A)"},
-      {"name": "Anindo Majumdar", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Anindo Majumdar, Member (A)"},
-      {"name": "Diwakar Singh", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Diwakar Singh, Member (J)"}
+      {
+        "name": "Urmita Datta (Sen)",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Smt. Urmita Datta (Sen), Member (J)"
+      },
+      {
+        "name": "Suchitto Kumar Das",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Suchitto Kumar Das, Member (A)"
+      },
+      {
+        "name": "Anindo Majumdar",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Anindo Majumdar, Member (A)"
+      },
+      {
+        "name": "Diwakar Singh",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Diwakar Singh, Member (J)"
+      }
     ],
     "Lucknow Bench": [
-      {"name": "Justice Anil Kumar Ojha", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice Anil Kumar Ojha, Member (J)"},
-      {"name": "Pankaj Kumar", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Pankaj Kumar, Member (A)"}
+      {
+        "name": "Justice Anil Kumar Ojha",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice Anil Kumar Ojha, Member (J)"
+      },
+      {
+        "name": "Pankaj Kumar",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Pankaj Kumar, Member (A)"
+      }
     ],
     "Mumbai Bench": [
-      {"name": "Justice Mukund Govindrao Sewlikar", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice Mukund Govindrao Sewlikar, Member (J)"},
-      {"name": "Shri Krishna", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Shri Krishna, Member (A)"},
-      {"name": "Umesh Gajankush", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Umesh Gajankush, Member (J)"},
-      {"name": "Sangam Narain Srivastava", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Sangam Narain Srivastava, Member (A)"}
+      {
+        "name": "Justice Mukund Govindrao Sewlikar",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice Mukund Govindrao Sewlikar, Member (J)"
+      },
+      {
+        "name": "Shri Krishna",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Shri Krishna, Member (A)"
+      },
+      {
+        "name": "Umesh Gajankush",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Umesh Gajankush, Member (J)"
+      },
+      {
+        "name": "Sangam Narain Srivastava",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Sangam Narain Srivastava, Member (A)"
+      }
     ],
     "Patna Bench": [
-      {"name": "Justice Narendra Kumar Johari", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Justice Narendra Kumar Johari, Member (J)"},
-      {"name": "Kumar Rajesh Chandra", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Kumar Rajesh Chandra, Member (A)"}
+      {
+        "name": "Justice Narendra Kumar Johari",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Justice Narendra Kumar Johari, Member (J)"
+      },
+      {
+        "name": "Kumar Rajesh Chandra",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Kumar Rajesh Chandra, Member (A)"
+      }
     ],
     "Srinagar Bench": [
-      {"name": "Justice Ritu Tagore", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Smt. Justice Ritu Tagore, Member (J)"},
-      {"name": "Mir Syed Latif", "designation": "Member (J)", "type": "JM", "display": "Hon'ble Mr. Mir Syed Latif, Member (J)"},
-      {"name": "Prasant Kumar", "designation": "Member (A)", "type": "AM", "display": "Hon'ble Mr. Prasant Kumar, Member (A)"}
+      {
+        "name": "Justice Ritu Tagore",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Smt. Justice Ritu Tagore, Member (J)"
+      },
+      {
+        "name": "Mir Syed Latif",
+        "designation": "Member (J)",
+        "type": "JM",
+        "display": "Hon'ble Mr. Mir Syed Latif, Member (J)"
+      },
+      {
+        "name": "Prasant Kumar",
+        "designation": "Member (A)",
+        "type": "AM",
+        "display": "Hon'ble Mr. Prasant Kumar, Member (A)"
+      }
     ]
   }
 }
