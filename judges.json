@@ -1,6 +1,6 @@
 {
   "app_name": "Memo of Parties",
-  "app_active": true,
+  "app_active": false,
   "inactive_message": "This software is currently under maintenance. Please contact Gagan Malik.",
   "debug_mode": false,
   "password_char_range": [
