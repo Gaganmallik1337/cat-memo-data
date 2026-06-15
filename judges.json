@@ -1,13 +1,27 @@
 {
+  "app_name": "CAT Memo Generator",
+  "app_active": true,
+  "inactive_message": "This software is currently under maintenance. Please contact Gagan Malik.",
   "debug_mode": true,
+  "password_char_range": [
+    52,
+    54
+  ],
+  "model_guide": {
+    "1": "gemini-2.5-flash     — 20 RPD  — Best quality, recommended",
+    "2": "gemini-3.5-flash     — 20 RPD  — Newest generation",
+    "3": "gemini-2.5-flash-lite — 20 RPD — Fastest response",
+    "4": "gemini-3.1-flash-lite — 500 RPD — High volume fallback"
+  },
+  "active_model": 1,
   "last_updated": "2026-03-23",
   "benches": {
     "Principal Bench": [
       {
-        "name": "Justice Ranjit More",
+        "name": "Justice Ranjit Vasantrao More",
         "designation": "Chairman",
         "type": "JM",
-        "display": "Hon'ble Mr. Justice Ranjit More, Chairman"
+        "display": "Hon'ble Mr. Justice Ranjit Vasantrao More, Chairman"
       },
       {
         "name": "R.N. Singh",
