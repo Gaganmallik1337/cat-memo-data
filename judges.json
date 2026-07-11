@@ -1,4 +1,5 @@
-  "benches": {
+debug_mode: true,
+"benches": {
     "Principal Bench": [
       {
         "name": "Justice Ranjit More",
